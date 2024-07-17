@@ -5,7 +5,7 @@
   * Database Applications utilizing technologies such as PL/SQL, PostgreSQL, and SQLite.
 
 * Additional Skills and Interests:
-  * Version Control: Proficient in using Git for version control and collaboration.
+  * Version Control: Knowledge in using Git for version control and collaboration.
   * Frontend Technologies: Knowledge of HTML, CSS, JavaScript, and Bootstrap for dynamic web interfaces.
     
 <h3 align="left">And not only that, I have knowledge of the following languages ​​and tools:</h3>
